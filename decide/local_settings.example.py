@@ -18,7 +18,7 @@ APIS = {
     'base': 'http://10.5.0.1:8000',
     'booth': 'http://10.5.0.1:8000',
     'census': 'http://10.5.0.1:8000',
-    'mixnet': 'http://10.5.0.1:8000',
+    'mixnet': 'http://localhost:8000',
     'postproc': 'http://10.5.0.1:8000',
     'store': 'http://10.5.0.1:8000',
     'visualizer': 'http://10.5.0.1:8000',
